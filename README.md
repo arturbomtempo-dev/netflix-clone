@@ -13,4 +13,4 @@ The program is intended to imitate Netflix's homepage, where you can see some mo
 * [Node.js](https://nodejs.org/pt-br/docs): allows the execution of JavaScript code outside the browser
 
 ## 📁 Project access
-You can view the hosted page by clicking [here](https://netflix-artur.vercel.app).
+You can view the hosted page by clicking [here](https://netflix-artur.vercel.app/).
